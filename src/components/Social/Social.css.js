@@ -6,7 +6,7 @@ export default {
         display: 'inline-block'
     },
     listLink: {
-        fontSize: 'x-large',
+        fontSize: '2em',
         borderBottom: 'none',
         padding: '0 5px'
     }

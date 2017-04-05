@@ -19,7 +19,8 @@ export default [
         mapUrl: "",
         goFundMe: "https://www.gofundme.com/march-for-science-ann-arbor",
         blurbPhoto: protestPhoto,
-        blurb: ""
+        blurb: "",
+        volunteerForm: "https://goo.gl/forms/2lmzpxy8VpcTluW63"
     },
     {
         name: "Detroit",
