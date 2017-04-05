@@ -19,14 +19,12 @@ let HamburgerMenu = React.createClass({
     render: function() {
         return (
             <Menu styles={styles} right>
-                <a className="menu-item" target="_blank" href="#" >Donate</a>
                 <a className="menu-item" target="_blank" href="https://goo.gl/forms/K2PgnxJTznz06gOq2">Volunteer</a>
-                <a className="menu-item" target="_blank" href="#" >Store</a>
-                <a className="menu-item" target="_blank" href="#" >Ride Share</a>
+                <a className="menu-item" target="_blank" href="https://www.marchforscience.com/store/" >Store</a>
                 <h3 style={{paddingTop: '20px'}}>Michigan Marches:</h3>
                 <CitiesList cities={Cities} />
                 <h3 style={{paddingTop: '20px'}}>Global Marches:</h3>
-                <a className="menu-item" target="_blank" href="#" >Global Website</a>
+                <a className="menu-item" target="_blank" href="https://www.marchforscience.com/" >Global Website</a>
             </Menu>
         );
     }

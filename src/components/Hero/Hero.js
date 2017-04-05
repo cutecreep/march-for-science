@@ -12,7 +12,7 @@ class Hero extends Component {
                     <p>Take a stand for science</p>
                     <img src={this.props.city.logo} style={styles.logo} />
                     <ul className="actions">
-                        <li><a href="https://goo.gl/forms/K2PgnxJTznz06gOq2" target="_blank" className="button special">Get Involved!</a></li>
+                        <li><a href={this.props.city.volunteerForm || "https://goo.gl/forms/K2PgnxJTznz06gOq2"} target="_blank" className="button special">Get Involved!</a></li>
                     </ul>
                     <h3>{this.props.city.hashtag}</h3>
                     <Social city={this.props.city} />
