@@ -7,7 +7,7 @@ export default [
         name: "Ann Arbor",
         logo: defaultLogo,
         date: "April 22, 2017",
-        time: "Noon - 2pm",
+        time: "Noon - 2PM",
         location: "The Diag",
         address: "",
         facebookEvent: "https://www.facebook.com/events/1237144609734310/",
@@ -106,7 +106,7 @@ export default [
         displayBlurb: true,
         blurbHeader: "Speaking at the march",
         blurbPhoto: protestPhoto,
-        blurb: "A PBR about the Stella Artois reads a magazine, and the hops over the milwakees best hibernates; however, a Pilsner gives the last beer to a blood clot of a mating ritual. Furthermore, the feline customer dies, and the Busch buys an expensive drink for another IPA toward a booze. A Long Trail Ale for a Hops Alligator Ale knowingly satiates a satellite brewery. The Dixie Beer leaves, and the burglar ale of a Dixie Beer trembles; however, a shot defined by the Coors is a big fan of a Strohs. Indeed, a lager of a Heineken throws a Yuengling at a blitzed bottle."
+        blurb: ""
     },
     {
         name: "Midland",
@@ -150,6 +150,24 @@ export default [
         facebookEvent: "https://www.facebook.com/events/1869079686704228",
         hashtag: "",
         url: "sault",
+        mapIframe: "",
+        mapUrl: "",
+        goFundMe: "",
+        blurbPhoto: protestPhoto,
+        blurb: ""
+    },
+    {
+        name: "Marquette",
+        logo: defaultLogo,
+        date: "April 22, 2017",
+        time: "10AM - 2PM",
+        location: "Lineup at Berry Events Center parking Lot, march down Third St. to corner of Washington (U.S. Post Office)",
+        address: "Berry Events Center, Marquette, MI 49855",
+        facebookEvent: "facebook.com/marchforscienceMQT",
+        hashtag: "",
+        email: "marchforscience.mqtmi@gmail.com",
+        twitter: "MQTScienceMarch",
+        url: "marquette",
         mapIframe: "",
         mapUrl: "",
         goFundMe: "",
