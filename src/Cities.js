@@ -108,7 +108,7 @@ export default [
         blurbPhoto: protestPhoto,
         blurbLink: "https://www.smore.com/up74s",
         blurb: "Listen to speeches by a distinguished lineup of scientists, politicians and professors. Check out the full list ",
-        partnerOrgBlurb: "Also, please take a moment to look at our ",
+        partnerOrgBlurb: "Also, please take a moment to look at our generous",
         partnerOrgLink: "https://www.smore.com/ayhb5"
     },
     {
