@@ -104,9 +104,12 @@ export default [
         mapUrl: "",
         goFundMe: "",
         displayBlurb: true,
-        blurbHeader: "Speaking at the march",
+        blurbHeader: "Speakers",
         blurbPhoto: protestPhoto,
-        blurb: ""
+        blurbLink: "https://www.smore.com/up74s",
+        blurb: "Listen to speeches by a distinguished lineup of scientists, politicians and professors. Check out the full list ",
+        partnerOrgBlurb: "Also, please take a moment to look at our ",
+        partnerOrgLink: "https://www.smore.com/ayhb5"
     },
     {
         name: "Midland",

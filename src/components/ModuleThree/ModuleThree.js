@@ -14,8 +14,9 @@ class Blurb extends Component {
                             <h3>{this.props.city.blurbHeader}</h3>
                             <img src={this.props.city.blurbPhoto} style={{width: "100%", paddingRight: "20px"}}/>
                         </div>
-                        <div style={{width: "50%", display: "inline-block"}}>
-                            <p style={{paddingLeft: "20px"}}>{this.props.city.blurb}</p>
+                        <div style={{width: "50%", display: "inline-block", paddingTop: "3em", verticalAlign: "top"}}>
+                            <p style={{paddingLeft: "20px"}}>{this.props.city.blurb} <a href={this.props.city.blurbLink}>here</a>.</p>
+                            <p style={{paddingLeft: "20px"}}>{this.props.city.partnerOrgBlurb} <a href={this.props.city.partnerOrgLink}>partner organizations</a></p>
                         </div>
                     </div>
                 </div>
