@@ -94,7 +94,7 @@ export default [
         name: "Lansing",
         logo: defaultLogo,
         date: "April 22, 2017",
-        time: "1PM - 4PM",
+        time: "1PM - 6PM",
         location: "the Michigan State Capitol",
         address: "110 N Capitol Ave, Lansing, Michigan 48933",
         facebookEvent: "https://www.facebook.com/events/985534291591681/",
@@ -104,12 +104,14 @@ export default [
         mapUrl: "",
         goFundMe: "",
         displayBlurb: true,
-        blurbHeader: "Speakers",
+        blurbHeader: "Speakers & Activities",
         blurbPhoto: protestPhoto,
         blurbLink: "https://www.smore.com/up74s",
         blurb: "Listen to speeches by a distinguished lineup of scientists, politicians and professors. Check out the full list ",
         partnerOrgBlurb: "Also, please take a moment to look at our generous",
-        partnerOrgLink: "https://www.smore.com/ayhb5"
+        partnerOrgLink: "https://www.smore.com/ayhb5",
+        activityBlurb: "Check our our lineup of music and other activities ",
+        activityLink: "https://www.smore.com/87s6a"
     },
     {
         name: "Midland",
